@@ -1,4 +1,4 @@
-# Summary of R Code Snippets
+# Summary of R Script
 
 This README provides a summary of various R code snippets for statistical analyses and data visualizations.
 
